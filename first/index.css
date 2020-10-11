@@ -1,0 +1,24 @@
+ body {
+   background-color: rgb(180, 180, 180);
+   width: 100%;
+   height: 100vh;
+   margin: 0;
+ }
+
+ .dark-gray {
+  background-color: rgb(59, 59, 59);
+  width: 100%;
+  height: 20%;
+}
+.white {
+  background-color: white;
+  height: 70%;
+  width: 70%;
+  margin: 0 15%;
+}
+.black {
+  background-color: black;
+  width: 70%;
+  height: 10%;
+  margin: 0 15%;
+}
